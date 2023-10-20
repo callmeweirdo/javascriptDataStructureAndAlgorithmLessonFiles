@@ -9,4 +9,4 @@ const recursiveFactorialOfANumber = (n) => {
 
 console.log(recursiveFactorialOfANumber(5));
 
-// ? te Big O notation --------> is the n = O(n) Linear 
+// ? te Big O notation --------> is the n = O(n) Linear Time Complexity in the case of a recursive factorial of a number
