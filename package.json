@@ -1,0 +1,19 @@
+{
+  "name": "algorithms101",
+  "version": "1.0.0",
+  "description": "ma DSA practice file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callmeweirdo/javascriptDataStructureAndAlgorithmLessonFiles.git"
+  },
+  "author": "David Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callmeweirdo/javascriptDataStructureAndAlgorithmLessonFiles/issues"
+  },
+  "homepage": "https://github.com/callmeweirdo/javascriptDataStructureAndAlgorithmLessonFiles#readme"
+}
