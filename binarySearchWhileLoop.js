@@ -19,7 +19,7 @@ const binarySearch = (array, low, high, target) => {
         }
     }
     if (low > high) {
-        console.log(`Not Found!`);
+        console.log(`Not Found! there for ${-1}`);
     }
 }
 
